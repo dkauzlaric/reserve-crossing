@@ -2,7 +2,7 @@
 // Sends form submissions via Resend. API key lives in the RESEND_API_KEY env var.
 
 const FROM = "Reserve Crossing Apartments <leads@send.reservecrossingapartments.com>";
-const TO = ["anthony@durashieldroofing.com", "Lisa@sparkdevco.com"];
+const TO = ["anthony@durashieldroofing.com", "Lisa@sparkdevco.com", "Julia@sparkdevco.com"];
 
 const PLAN_LABELS = {
   type1: "Unit Type 1 — 1,097 sq ft",
